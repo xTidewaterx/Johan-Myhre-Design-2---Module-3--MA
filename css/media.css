@@ -10,7 +10,7 @@
  }
 
 
- @media (max-width: 600px ) {
+ @media (max-width: 630px ) {
 
 
     main i {
@@ -28,7 +28,7 @@
 
     h1.products__heading {
 
-        font-size: 45px;
+        font-size: 7vw;
         color: rgb(255, 255, 255);
    
     
