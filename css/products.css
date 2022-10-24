@@ -147,6 +147,8 @@ h1.products__heading {
 
 width:30px;
 height:30px;
+    margin: 0 auto;
+    display: flexbox;
 }
 
 
@@ -157,6 +159,7 @@ height:30px;
     display: flex;
     margin: 0 auto;
     margin-bottom: 50px;
+    
 }
 
 /*colours, symbols, contrast, the dynamic message of something about to happen, convey positive assosications*/
