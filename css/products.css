@@ -69,6 +69,8 @@ div.card:last-child  {
 .card__content {
 
     background-color: aliceblue;
+      padding-bottom: 20px;
+  padding-top: 10px;
 
 
   
